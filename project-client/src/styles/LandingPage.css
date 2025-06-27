@@ -1,0 +1,21 @@
+.landingPage{
+    width: 100%;
+    height: fit-content;
+}
+
+.landingHero{
+    width: 100%;
+    height: 100vh;
+    padding-top: 10vh;
+    background-image: linear-gradient(45deg, rgba(36, 59, 69, 0.489),rgba(0, 0, 0, 0.493)), url('../assets/HomeBG1.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-y: scroll;
+    -ms-overflow-style: none; 
+    scrollbar-width: none;  
+}
+.landingHero::-webkit-scrollbar {
+    display: none;
+  }
+  
