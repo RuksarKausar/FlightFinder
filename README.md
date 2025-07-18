@@ -34,8 +34,4 @@ Hosting: Heroku, AWS, or Render
 API Testing: Postman or Swagger
 ## Database: 
 You can also use Firebase, MongoDB or MySQL depending on your team's stack preference. 
-# Prerequisites: 
- HTML5, CSS3, JavaScript fundamentals 
- Familiarity with React.js (or Angular/Vue.js) 
- Node.js and Express.js 
- Knowledge of MongoDB, Firebase, or MySQL 
+
